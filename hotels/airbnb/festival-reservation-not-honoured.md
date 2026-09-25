@@ -52,11 +52,11 @@ My reservation was canceled within 30 days, I'd like to claim compensation to ma
 
 **Airbnb Support**:
 Hello Silvio,
-My name is Karina, and I am part of the Airbnb support team.
+I am part of the Airbnb support team.
 I am currently investigating your case and will update you once we have more information.
 
 **Kind Regards,**
-Karina
+Airbnb Support
 
 ---
 
@@ -69,14 +69,14 @@ Your coupon code is: `[redacted]`
 Additional information on how to use your coupon can be found [here](https://www.airbnb.com/help/article/160).
 
 **Kind Regards,**
-Karina
+Airbnb Support
 
 ---
 
 ### 5:53 p.m.
 
 **Silvio**:
-Dear Karina, that is very (comically!) insufficient to make up for this incident. Airbnb is supposed to provide insurance against cancelations less than 30 days before check-in.
+Dear Airbnb, that is very (comically!) insufficient to make up for this incident. Airbnb is supposed to provide insurance against cancelations less than 30 days before check-in.
 
 ---
 
@@ -104,14 +104,14 @@ Hello Silvio,
 We do not provide insurance against cancelations. I noticed your attempt at making the second reservation was denied. Let me know, and I'll pull together some options for you to review.
 
 **Kind Regards,**
-Karina
+Airbnb Support
 
 ---
 
 ### 11:01 a.m.
 
 **Silvio**:
-Dear Karina, this conversation will be made public.
+Dear Airbnb, this conversation will be made public.
 
 ---
 
@@ -122,14 +122,14 @@ Hello Silvio,
 Kindly advise if any of these interest you or if you wish to stay with the one you have booked in [town redacted].
 
 **Kind Regards,**
-Karina
+Airbnb Support
 
 ---
 
 ### 6:04 p.m.
 
 **Silvio**:
-Dear Karina, the proposed locations are inadequate. No hotel would ever be allowed to operate like this.
+Dear Airbnb, the proposed locations are inadequate. No hotel would ever be allowed to operate like this.
 
 **Best wishes,**
 
@@ -141,7 +141,7 @@ Dear Karina, the proposed locations are inadequate. No hotel would ever be allow
 I'll go ahead and close out our conversation. If you have any other questions please feel free to reach back.
 
 **Kind Regards,**
-Karina
+Airbnb Support
 
 ---
 
@@ -154,7 +154,7 @@ Yes, I still need help.
 ### 4:35 p.m.
 
 **Silvio**:
-Dear Karina,
+Dear Airbnb,
 your proposals are well inferior to the reservation that I had already (in theory) secured,as you are surely aware. I want to make you note how useless reservation systems are when they can be dishonoured without consequence. On the other hand, it is obvious that your choices were designed to avoid Airbnb taking any financial responsibility for the problem.
 
 
